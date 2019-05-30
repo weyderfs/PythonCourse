@@ -1,2 +1,2 @@
 # PythonCourse
-Versioning my classroo,
+Versioning my classroom
