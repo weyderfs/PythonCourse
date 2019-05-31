@@ -1,0 +1,5 @@
+p = float(input('Informe o Preço do Produto R$: '))
+print('Calculando o desconto')
+print('#'* 20)
+#d = p * (5/100)
+print('O preço atual é R${:.2f} e novo preço com desconto é R${:.2f}'.format(p, p - (p*5/100)))
