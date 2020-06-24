@@ -1,3 +1,5 @@
+###Showing the name, date, month and year of birthday.
+
 nome = input ('Qual seu nome?: ')
 dn = input ('Que dia você nasceu?: ')
 dm = input ('Qual mês você nasceu?: ')
