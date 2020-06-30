@@ -1,0 +1,8 @@
+n = str(input('Digite algo: '))
+print('Verificando....')
+print('O que você digitou possui as seguintes tipagens abaixo: ')
+print('É um número: ', n.isalnum())
+print('É um caracter: ', n.isalpha())
+print('É um número decimal: ', n.isdecimal())
+print('É um dígito: ', n.isdigit())
+print('É possível imprimi-lo, mostra-lo: ', n.isprintable())
