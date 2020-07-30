@@ -1,0 +1,5 @@
+n = int(input('Input a number: '))
+print('You input {}'.format(n))
+print('The double of this numer is {}'.format(n*2))
+print('The triple is {}'.format(n*3))
+print('The square root is {:.2f}'.format(pow(n, (1/2))))
