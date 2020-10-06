@@ -15,6 +15,3 @@ if n == t:
     print('SHOW, você é adivinhador!!!!')
 else:
     print('Errou, eu pensei outro número {}'.format(t))
-        
-
-
